@@ -1,0 +1,16 @@
+fr/uvsq/tod/wordanalyser/WordAnalyzerTester3.java
+ fr.uvsq.tod.wordanalyser.WordAnalyzerTester3
+fr/uvsq/tod/wordanalyser/WordAnalyzerTester2.java
+ fr.uvsq.tod.wordanalyser.WordAnalyzerTester2
+fr/uvsq/tod/compte/PhraseException.java
+ fr.uvsq.tod.compte.PhraseException
+fr/uvsq/tod/wordanalyser/WordAnalyzer.java
+ fr.uvsq.tod.wordanalyser.WordAnalyzer
+fr/uvsq/tod/wordanalyser/WordAnalyzerTester.java
+ fr.uvsq.tod.wordanalyser.WordAnalyzerTester
+fr/uvsq/tod/compte/Compte.java
+ fr.uvsq.tod.compte.Compte
+fr/uvsq/tod/compte/ParseException.java
+ fr.uvsq.tod.compte.ParseException
+fr/uvsq/tod/fraction/Fraction.java
+ fr.uvsq.tod.fraction.Fraction

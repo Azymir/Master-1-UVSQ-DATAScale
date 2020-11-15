@@ -1,0 +1,6 @@
+fr/uvsq/tod/compte/CompteTest.java
+ fr.uvsq.tod.compte.CompteTest
+fr/uvsq/tod/fraction/FractionTest.java
+ fr.uvsq.tod.fraction.FractionTest
+fr/uvsq/tod/wordanalyser/WordAnalyzerTest.java
+ fr.uvsq.tod.wordanalyser.WordAnalyzerTest
